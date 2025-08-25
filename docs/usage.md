@@ -119,7 +119,7 @@ Branch v2.8.2
 http://公网eip:8888/
 
 ## 运行一个Storm拓扑案例
-storm jar /opt/storm/examples/storm-starter/target/storm-starter-2.8.2.jar org.apache.storm.starter.StatefulTopology
+storm jar /opt/storm/examples/storm-starter/target/storm-starter-2.8.2.jar org.apache.storm.starter.StatefulTopology  
 通过 Storm UI (http://公网eip:8888/) 可以监控拓扑的运行情况
 
 
